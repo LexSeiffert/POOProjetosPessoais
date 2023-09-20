@@ -4,8 +4,8 @@ Sistema de um estúdio de animação para visualizar relatorios de cargos e seus
 
 ## Tecnologias usadas
 
-- [Java](https://www.java.com/pt-BR/))
-- [Spring Tools 4](https://spring.io/tools))
+- [Java](https://www.java.com/pt-BR/)
+- [Spring Tools 4](https://spring.io/tools)
 
 ### Autor
 
