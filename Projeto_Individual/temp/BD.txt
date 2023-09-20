@@ -1,0 +1,13 @@
+Cargo;1;Animacao;
+Cargo;2;Criacao de Cenarios;
+Cargo;3;Colorizacao;
+Cargo;4;Roteiro;
+Cargo;5;Storyboard;
+Pessoa;1;Beatriz Barbosa;3;
+Pessoa;2;Diogo Souza;2;
+Pessoa;3;Eduardo Almeida;4;
+Pessoa;4;Gustavo Oliveira;5;
+Pessoa;5;Isabel Ferreira;1;
+Pessoa;6;Lara Santos;4;
+Pessoa;7;Mariana Pereira;1;
+Pessoa;8;Rafael Costa;1;
