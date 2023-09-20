@@ -4,6 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Cargo {
+	
+	
+	
+	
 
 	private Integer id;
 	private String nomeCargo;
